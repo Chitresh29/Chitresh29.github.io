@@ -371,13 +371,12 @@ export const projects = [
     title: "Netflix Clone",
     date: "Feb 2022 - March 2022",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "The Netflix clone frontend is a React JS web application designed to replicate the user interface of the popular streaming platform, Netflix. Developed with React JS and styled using Material UI components, this project focuses on delivering a visually engaging and responsive user experience.",
     image:
       "https://i.postimg.cc/43LT8QW0/netflix.png",
     tags: ["React Js", "Sass", "Redux", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/Chitresh29/netflix_clone",
   },
   {
     id: 0,
