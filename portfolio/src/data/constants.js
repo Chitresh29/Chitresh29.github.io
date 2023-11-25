@@ -230,7 +230,7 @@ export const experiences = [
     role: "Web Developer Intern ",
     company: "LMS Solutions (India) Private Limited",
     date: "January 2019 - December 2019",
-    desc: "Developed a responsive health monitoring web application using HTML, CSS, JavaScript, and TypeScript, enhancing functionality with a Java backend. Active involvement in 50+ code reviews contributed to a substantial 75% improvement in code quality and maintainability, reflecting my dedication to excellence and user experience.",
+    desc: "Developed responsive web applications with React.js, HTML, CSS, JavaScript, and TypeScript. Utilized React Router for modular components and seamless navigation. Contributed to 50+ code reviews, enhancing code quality and maintainability by an impressive 75%, highlighting my commitment to excellence.",
     skills: [
       "HTML",
       "CSS",
