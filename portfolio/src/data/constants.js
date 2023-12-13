@@ -316,7 +316,7 @@ export const projects = [
     description:
       "Project focused on orchestrating Azure Kubernetes clusters using Terraform and deploying diverse applications. It streamlines the creation of scalable and robust Kubernetes infrastructure in the Azure cloud. The project emphasizes automation and efficiency, enabling seamless deployment of applications within the Kubernetes environment. CloudKubeForge offers a unified platform for managing complex cloud-native deployments, optimizing scalability and performance in Azure.",
     image:
-      "https://media.licdn.com/dms/image/D4E22AQGk-p8hmGyFlQ/feedshare-shrink_2048_1536/0/1687362598890?e=1701907200&v=beta&t=QfYPn6c7J5MmghgRixxsCckK7VTshCn7ZvtQFb6SL28",
+      "https://learnk8s.io/a/73dd3f7a95b79777778a6ace9fa4757f.svg",
     tags: ["Terraform", "Azure", "Shell Scripting", "Kubernetes", "Git/GitHub"],
     category: "android app",
     github: "https://github.com/Chitresh29/Terraform-AKS-Cluster_Deployment",
