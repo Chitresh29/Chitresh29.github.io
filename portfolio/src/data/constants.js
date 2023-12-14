@@ -275,6 +275,30 @@ export const education = [
 export const projects = [
   {
     id: 8,
+    title: "DiscordChatGPT Bot",
+    date: "November 2023",
+    description:
+      "An AI Discord bot powered by OpenAI GPT-3.5. Dynamically generates intelligent responses based on chat history. Choose scenarios, engage in natural conversations, and elevate your Discord experience.",
+    image:
+      "https://i.ytimg.com/vi/55n4qZBrfeQ/maxresdefault.jpg",
+    tags: ["Python", "Discord.py", "OpenAI GPT-3.5"],
+    category: "machine learning",
+    github: "https://replit.com/@ChitreshJain1/DiscordChatGPT",
+  },
+  {
+    id: 8,
+    title: "InnovateVoice-AI Desktop Assistant",
+    date: "November 2023",
+    description:
+      "AI Desktop Companion that seamlessly integrates OpenAI's language models with Python, providing an intelligent, natural-language interface. Engage in dynamic, human-like conversations and enhance desktop efficiency effortlessly.",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1200/0*7WIlz_rvdRr80Bh7",
+    tags: ["Python", "pyttsx3", "Pandas", "Speeh_Recognition", "OpenAI"],
+    category: "machine learning",
+    github: "https://github.com/Chitresh29/InnovateVoice-AI",
+  },
+  {
+    id: 8,
     title: "Face Emotion Recognition",
     date: "october 2023",
     description:
