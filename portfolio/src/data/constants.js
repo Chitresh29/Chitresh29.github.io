@@ -167,10 +167,10 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/C560BAQFi30eQoynqxw/company-logo_200_200/0/1630654597670/onsemi_logo?e=1707350400&v=beta&t=lFeCOFV20XQQjrggkhmbz8wzti3qnU-_DQzInK9g2sk",
-    role: "Software Development & DevOps Intern",
+    role: "Software & AI Developer",
     company: "Onsemi, United States",
     date: "June 2023 - Present",
-    desc: "Developed the Chatbot backend using Python, Flask, and Node.js, optimizing interactions with LLMs through OpenAI APIs and Cognitive Search indexing.This resulted in a remarkable 30% increase in customer engagement via seamless RESTful API interactions. Additionally, I created a script to fetch Azure Table logs, integrated it with Salesforce for automated case creation, and managed cost-efficient Azure Infrastructure provisioning using Terraform. Automation was achieved through GitLab CI/CD, Docker, and Kubernetes.",
+    desc: "As the Developer of an AI Chatbot backend, I leveraged Python, Flask, and Node.js to elevate scalability by 30%, enhancing real-time responsiveness. Strategic optimizations, such as crafting LLM prompts and deploying a natural language processing system, resulted in an impressive 40% reduction in customer support response time. My active contributions fortified the chatbot's precision by 25%, evidenced by a strengthened knowledge base. From Azure functions and CI/CD automation to Terraform scripting, I streamlined operations, reducing costs by 40% while enhancing system reliability in cloud infrastructure.",
     skills: [
       "Python",
       "Flask",
@@ -193,7 +193,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "Tata Consultancy Services",
     date: "November 2020 - July 2022",
-    desc: "I've developed robust Java applications leveraging the Spring Boot Framework and Hibernate, with a strong focus on applying design patterns to ensure code quality and maintainability. I've also established efficient database connectivity using JDBC, facilitating seamless communication between applications and MySQL databases. In addition, I've successfully streamlined infrastructure management by automating Azure deployments through ARM templates and PowerShell scripts, resulting in a notable 50% reduction in deployment time. Furthermore, I've demonstrated proficiency in managing various AWS services, including EC2, S3, RDS, VPC, Lambda, and CloudTrail, ensuring low-latency and high-performance cloud operations.",
+    desc: "In my role, I took charge of designing and developing RESTful web services with Java and Spring, achieving a significant 40% enhancement in API response time. My responsibilities extended to analyzing and optimizing SQL queries and stored procedures for JDBC, resulting in a commendable 30% improvement in database performance. Leveraging AWS services such as EC2, S3, RDS, VPC, Lambda, and CloudTrail, I configured a robust infrastructure ensuring low latency and high performance. To streamline operations, I automated infrastructure deployment scripts using Jenkins, halving deployment time and mitigating production issues effectively.",
     skills: [
       "Java",
       "Spring",
