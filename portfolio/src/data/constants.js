@@ -126,7 +126,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logos/logomark-orange@2x.png",
       },
       {
         name: "GitHub",
@@ -151,7 +151,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8",
       },
       {
         name: "Kubernetes",
@@ -165,8 +165,8 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFi30eQoynqxw/company-logo_200_200/0/1630654597670/onsemi_logo?e=1707350400&v=beta&t=lFeCOFV20XQQjrggkhmbz8wzti3qnU-_DQzInK9g2sk",
-    role: "Software Development & DevOps Intern",
+    img: "https://media.licdn.com/dms/image/C560BAQFi30eQoynqxw/company-logo_200_200/0/1630654597670/onsemi_logo?e=1717632000&v=beta&t=iQB5SAq-nowqbwp1XfXtfEEVx5AHA9LV00mpm3C1NdY",
+    role: "Software & AI Developer",
     company: "Onsemi, United States",
     date: "June 2023 - Present",
     desc: "Developed the Chatbot backend using Python, Flask, and Node.js, optimizing interactions with LLMs through OpenAI APIs and Cognitive Search indexing.This resulted in a remarkable 30% increase in customer engagement via seamless RESTful API interactions. Additionally, I created a script to fetch Azure Table logs, integrated it with Salesforce for automated case creation, and managed cost-efficient Azure Infrastructure provisioning using Terraform. Automation was achieved through GitLab CI/CD, Docker, and Kubernetes.",
@@ -208,34 +208,20 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/D4D0BAQEeGVtrkHQNPw/company-logo_200_200/0/1688976143278/snye_logo?e=1707350400&v=beta&t=0hfm6YZyBnAGqk0U95Q51g6T5yvFxMxNElPmYW0sJRw",
-    role: "Associate Software Engineer",
-    company: "SNYE",
-    date: "January 2020 - August 2020",
-    desc: "In my role, I had the opportunity to architect the complete stack, including the APIs, backend, and frontend, for a single-page application, all within the initial 30 days of joining the team.  I also took charge of implementing crucial functionalities, such as user login and product registration modules, employing a tech stack that included Python, Django, AJAX, and Flask. Moreover, my contributions extended to the optimization of departmental operations, with the introduction of streamlined order placement and tracking features. This resulted in a remarkable 14% increase in departmental efficiency, showcasing my commitment to making impactful improvements and driving tangible results within the organization.",
+    id: 2,
+    img: "https://media.licdn.com/dms/image/D4D0BAQFEKHSeK4FKLw/company-logo_200_200/0/1695206242672/lms_solutions_india_pvt_ltd_logo?e=1717632000&v=beta&t=iqxrYeA8y0YfL-86nZ5xZtIkak-AcIuYUSTVlnuslV0",
+    role: "Software Developer Trainee",
+    company: "LMS Solutions (India) Private Limited",
+    date: "January 2019 - December 2019",
+    desc: "Developed responsive web applications with React.js, HTML, CSS, JavaScript, and TypeScript. Utilized React Router for modular components and seamless navigation. Contributed to 50+ code reviews, enhancing code quality and maintainability by an impressive 75%, highlighting my commitment to excellence.",
     skills: [
+      "React JS",
       "HTML",
       "CSS",
       "JavaScript",
       "Python",
       "Flask",
       "Django",
-      "React JS",
-    ],
-  },
-  {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/D4D0BAQFEKHSeK4FKLw/company-logo_200_200/0/1695206242148/lms_solutions_india_pvt_ltd_logo?e=1707350400&v=beta&t=SQZ1kb9Agp2cl9LjIPMB_NTR6cRkkpDJQ5xG7E8pdRw",
-    role: "Web Developer Intern ",
-    company: "LMS Solutions (India) Private Limited",
-    date: "January 2019 - December 2019",
-    desc: "Developed responsive web applications with React.js, HTML, CSS, JavaScript, and TypeScript. Utilized React Router for modular components and seamless navigation. Contributed to 50+ code reviews, enhancing code quality and maintainability by an impressive 75%, highlighting my commitment to excellence.",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Java",
       "Bootstrap",
       "MySQL",
     ],
@@ -245,7 +231,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1519855922217?e=1707350400&v=beta&t=-e-fDsWyZ5l5XQF_ZtOWv9OT1ZQYFrtZ4c5zfyPV9gQ",
+    img: "https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1631309406468?e=1717632000&v=beta&t=f91Iy9NvIITiNYs7A6EcX8_saIbqZmdOF_n1TxvKqNE",
     school: "Arizona State University, Tempe, AZ, United States",
     date: "August 2022 - December 2023",
     grade: "4.33 GPA",
@@ -254,7 +240,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQHSeuxOKsGZSA/company-logo_200_200/0/1631338993024?e=1707350400&v=beta&t=Qmahvn9GDPeXPreMaltxzqZR2nT7RaT8nTc4rloYK4U",
+    img: "https://media.licdn.com/dms/image/C4D0BAQHSeuxOKsGZSA/company-logo_200_200/0/1631338993024?e=1717632000&v=beta&t=fnhEgxqb9d09uD1P7pmGhKHG45b0SqInqqJhg5QQwK0",
     school: "Acropolis Institute of Technology and Research, Indore, MP, India",
     date: "August 2016 - June 2020",
     grade: "3.5 GPA",
@@ -316,7 +302,7 @@ export const projects = [
     description:
       "Project focused on orchestrating Azure Kubernetes clusters using Terraform and deploying diverse applications. It streamlines the creation of scalable and robust Kubernetes infrastructure in the Azure cloud. The project emphasizes automation and efficiency, enabling seamless deployment of applications within the Kubernetes environment. CloudKubeForge offers a unified platform for managing complex cloud-native deployments, optimizing scalability and performance in Azure.",
     image:
-      "https://media.licdn.com/dms/image/D4E22AQGk-p8hmGyFlQ/feedshare-shrink_2048_1536/0/1687362598890?e=1701907200&v=beta&t=QfYPn6c7J5MmghgRixxsCckK7VTshCn7ZvtQFb6SL28",
+      "https://learnk8s.io/a/73dd3f7a95b79777778a6ace9fa4757f.svg",
     tags: ["Terraform", "Azure", "Shell Scripting", "Kubernetes", "Git/GitHub"],
     category: "android app",
     github: "https://github.com/Chitresh29/Terraform-AKS-Cluster_Deployment",
