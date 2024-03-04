@@ -2,6 +2,7 @@ export const Bio = {
   name: "Chitresh Jain",
   roles: [
     "Software Developer",
+    "AI Developer",
     "Full Stack Developer",
     "DevOps Engineer",
     "Programmer",
@@ -126,7 +127,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://git-scm.com/images/logos/logomark-orange@2x.png",
+          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
       {
         name: "GitHub",
@@ -151,7 +152,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8",
+          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
       {
         name: "Kubernetes",
@@ -165,11 +166,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFi30eQoynqxw/company-logo_200_200/0/1630654597670/onsemi_logo?e=1717632000&v=beta&t=iQB5SAq-nowqbwp1XfXtfEEVx5AHA9LV00mpm3C1NdY",
+    img: "https://media.licdn.com/dms/image/C560BAQFi30eQoynqxw/company-logo_200_200/0/1630654597670/onsemi_logo?e=1707350400&v=beta&t=lFeCOFV20XQQjrggkhmbz8wzti3qnU-_DQzInK9g2sk",
     role: "Software & AI Developer",
     company: "Onsemi, United States",
     date: "June 2023 - Present",
-    desc: "Developed the Chatbot backend using Python, Flask, and Node.js, optimizing interactions with LLMs through OpenAI APIs and Cognitive Search indexing.This resulted in a remarkable 30% increase in customer engagement via seamless RESTful API interactions. Additionally, I created a script to fetch Azure Table logs, integrated it with Salesforce for automated case creation, and managed cost-efficient Azure Infrastructure provisioning using Terraform. Automation was achieved through GitLab CI/CD, Docker, and Kubernetes.",
+    desc: "As the Developer of an AI Chatbot backend, I leveraged Python, Flask, and Node.js to elevate scalability by 30%, enhancing real-time responsiveness. Strategic optimizations, such as crafting LLM prompts and deploying a natural language processing system, resulted in an impressive 40% reduction in customer support response time. My active contributions fortified the chatbot's precision by 25%, evidenced by a strengthened knowledge base. From Azure functions and CI/CD automation to Terraform scripting, I streamlined operations, reducing costs by 40% while enhancing system reliability in cloud infrastructure.",
     skills: [
       "Python",
       "Flask",
@@ -192,7 +193,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "Tata Consultancy Services",
     date: "November 2020 - July 2022",
-    desc: "I've developed robust Java applications leveraging the Spring Boot Framework and Hibernate, with a strong focus on applying design patterns to ensure code quality and maintainability. I've also established efficient database connectivity using JDBC, facilitating seamless communication between applications and MySQL databases. In addition, I've successfully streamlined infrastructure management by automating Azure deployments through ARM templates and PowerShell scripts, resulting in a notable 50% reduction in deployment time. Furthermore, I've demonstrated proficiency in managing various AWS services, including EC2, S3, RDS, VPC, Lambda, and CloudTrail, ensuring low-latency and high-performance cloud operations.",
+    desc: "In my role, I took charge of designing and developing RESTful web services with Java and Spring, achieving a significant 40% enhancement in API response time. My responsibilities extended to analyzing and optimizing SQL queries and stored procedures for JDBC, resulting in a commendable 30% improvement in database performance. Leveraging AWS services such as EC2, S3, RDS, VPC, Lambda, and CloudTrail, I configured a robust infrastructure ensuring low latency and high performance. To streamline operations, I automated infrastructure deployment scripts using Jenkins, halving deployment time and mitigating production issues effectively.",
     skills: [
       "Java",
       "Spring",
@@ -208,20 +209,34 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/D4D0BAQFEKHSeK4FKLw/company-logo_200_200/0/1695206242672/lms_solutions_india_pvt_ltd_logo?e=1717632000&v=beta&t=iqxrYeA8y0YfL-86nZ5xZtIkak-AcIuYUSTVlnuslV0",
-    role: "Software Developer Trainee",
-    company: "LMS Solutions (India) Private Limited",
-    date: "January 2019 - December 2019",
-    desc: "Developed responsive web applications with React.js, HTML, CSS, JavaScript, and TypeScript. Utilized React Router for modular components and seamless navigation. Contributed to 50+ code reviews, enhancing code quality and maintainability by an impressive 75%, highlighting my commitment to excellence.",
+    id: 1,
+    img: "https://media.licdn.com/dms/image/D4D0BAQEeGVtrkHQNPw/company-logo_200_200/0/1688976143278/snye_logo?e=1707350400&v=beta&t=0hfm6YZyBnAGqk0U95Q51g6T5yvFxMxNElPmYW0sJRw",
+    role: "Associate Software Engineer",
+    company: "SNYE",
+    date: "January 2020 - August 2020",
+    desc: "In my role, I had the opportunity to architect the complete stack, including the APIs, backend, and frontend, for a single-page application, all within the initial 30 days of joining the team.  I also took charge of implementing crucial functionalities, such as user login and product registration modules, employing a tech stack that included Python, Django, AJAX, and Flask. Moreover, my contributions extended to the optimization of departmental operations, with the introduction of streamlined order placement and tracking features. This resulted in a remarkable 14% increase in departmental efficiency, showcasing my commitment to making impactful improvements and driving tangible results within the organization.",
     skills: [
-      "React JS",
       "HTML",
       "CSS",
       "JavaScript",
       "Python",
       "Flask",
       "Django",
+      "React JS",
+    ],
+  },
+  {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/D4D0BAQFEKHSeK4FKLw/company-logo_200_200/0/1695206242148/lms_solutions_india_pvt_ltd_logo?e=1707350400&v=beta&t=SQZ1kb9Agp2cl9LjIPMB_NTR6cRkkpDJQ5xG7E8pdRw",
+    role: "Web Developer Intern ",
+    company: "LMS Solutions (India) Private Limited",
+    date: "January 2019 - December 2019",
+    desc: "Developed a responsive health monitoring web application using HTML, CSS, JavaScript, and TypeScript, enhancing functionality with a Java backend. Active involvement in 50+ code reviews contributed to a substantial 75% improvement in code quality and maintainability, reflecting my dedication to excellence and user experience.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
       "Bootstrap",
       "MySQL",
     ],
@@ -231,7 +246,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1631309406468?e=1717632000&v=beta&t=f91Iy9NvIITiNYs7A6EcX8_saIbqZmdOF_n1TxvKqNE",
+    img: "https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1519855922217?e=1707350400&v=beta&t=-e-fDsWyZ5l5XQF_ZtOWv9OT1ZQYFrtZ4c5zfyPV9gQ",
     school: "Arizona State University, Tempe, AZ, United States",
     date: "August 2022 - December 2023",
     grade: "4.33 GPA",
@@ -240,7 +255,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQHSeuxOKsGZSA/company-logo_200_200/0/1631338993024?e=1717632000&v=beta&t=fnhEgxqb9d09uD1P7pmGhKHG45b0SqInqqJhg5QQwK0",
+    img: "https://media.licdn.com/dms/image/C4D0BAQHSeuxOKsGZSA/company-logo_200_200/0/1631338993024?e=1707350400&v=beta&t=Qmahvn9GDPeXPreMaltxzqZR2nT7RaT8nTc4rloYK4U",
     school: "Acropolis Institute of Technology and Research, Indore, MP, India",
     date: "August 2016 - June 2020",
     grade: "3.5 GPA",
@@ -259,6 +274,30 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 8,
+    title: "DiscordChatGPT Bot",
+    date: "November 2023",
+    description:
+      "An AI Discord bot powered by OpenAI GPT-3.5. Dynamically generates intelligent responses based on chat history. Choose scenarios, engage in natural conversations, and elevate your Discord experience.",
+    image:
+      "https://i.ytimg.com/vi/55n4qZBrfeQ/maxresdefault.jpg",
+    tags: ["Python", "Discord.py", "OpenAI GPT-3.5"],
+    category: "machine learning",
+    github: "https://replit.com/@ChitreshJain1/DiscordChatGPT",
+  },
+  {
+    id: 8,
+    title: "InnovateVoice-AI Desktop Assistant",
+    date: "November 2023",
+    description:
+      "AI Desktop Companion that seamlessly integrates OpenAI's language models with Python, providing an intelligent, natural-language interface. Engage in dynamic, human-like conversations and enhance desktop efficiency effortlessly.",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1200/0*7WIlz_rvdRr80Bh7",
+    tags: ["Python", "pyttsx3", "Pandas", "Speeh_Recognition", "OpenAI"],
+    category: "machine learning",
+    github: "https://github.com/Chitresh29/InnovateVoice-AI",
+  },
   {
     id: 8,
     title: "Face Emotion Recognition",
